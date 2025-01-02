@@ -1,4 +1,4 @@
-# DS-FFF
+# Fractal Fibo FVG Indicator
 The trading indicator for MetaTrader 5 builds FVG inside Fibo by Fractals
 
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)

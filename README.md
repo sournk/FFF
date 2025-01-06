@@ -3,12 +3,15 @@ The trading indicator for MetaTrader 5 builds FVG inside Fibo by Fractals
 
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
 * Task: https://www.mql5.com/en/job/230436
-* Version: 1.00
+* Version: 1.02
 
 ![Layout](/img/UM001.%20Layou.gif)
 
 ## What's new?
 ```
+1.02: Release version with no limits
+1.01: [+] GUI_FRC: Draw Fractal
+      [+] ALR_PNC: Push Notification Enabled
 1.00: Initial testing version
 ```
 
@@ -34,11 +37,13 @@ The trading indicator for MetaTrader 5 builds FVG inside Fibo by Fractals
 ##### 2. GUI
 - [x] `GUI_FIB`: Draw Fibo
 - [x] `GUI_FVG`: Draw FVG
+- [x] `GUI_FRC`: ==Draw Fractals==
 - [x] `GUI_COL_BUL`: Color for Bullish
 - [x] `GUI_COL_BER`: Color for Bearish
 
 ##### 3. ALERTS (ALR)
 - [x] `ALR_ENB`: Show alerts
+- [x] `ALR_PNC`: ==Push Notification Enabled.== Read [MetaTrader 5 help](https://www.metatrader5.com/en/mobile-trading/iphone/help/settings_messages#my_id) to set notifications up.
 - [x] `ALR_LL`: Log Level
 
 ## Installation
